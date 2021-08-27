@@ -1,4 +1,4 @@
-Fast brainfuck interpreuter written in C
+Fast brainfuck interpreter written in C
 
 To compile:
 > gcc breainfuck.c -o brainfuck
